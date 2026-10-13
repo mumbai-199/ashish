@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1E3A8A</color>
+    <string name="gcm_defaultSenderId" translatable="false">822350748333</string>
+    <string name="google_api_key" translatable="false">AIzaSyBsh72wLnO4rvcrwZJsyEH1dJZKfCcQF2k</string>
+    <string name="google_app_id" translatable="false">1:822350748333:android:5935d31f7a2e38022a8424</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBsh72wLnO4rvcrwZJsyEH1dJZKfCcQF2k</string>
+    <string name="google_storage_bucket" translatable="false">pest-control-64776.firebasestorage.app</string>
+    <string name="project_id" translatable="false">pest-control-64776</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
